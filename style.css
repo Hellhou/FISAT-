@@ -1,0 +1,58 @@
+body{
+    background-image: url("./images/elevated-view-laptop-earphones-crumpled-papers-pencil-blank-spiral-notepad-frame-black-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.d1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left:100px;
+    top: 300px;
+    font-family: cursive;
+    
+}
+.d2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left:600px;
+    top: 160px;
+    font-family: cursive;
+    
+}
+.d3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 650px;
+    top: 300px;
+
+}
+.d4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 170px;
+    top: 230px;
+}
+.d5{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    font-family: cursive;
+    top: -360px;
+    left: 354px;
+}
+.d6{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 354px;
+    top: -310px;
+}
